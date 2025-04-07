@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "7f4f72a31a9acdf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "284a29dcc575082e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7377255ab42a9444",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Design/Pictures/google-drive-design.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "google-drive-design"
+            }
+          },
+          {
+            "id": "5096c9dadd60ddf3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5697285d09c7dcab",
+    "type": "split",
+    "children": [
+      {
+        "id": "93f88c61c8b32138",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b39ae3a177d2c14d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9e1992f8e8148d60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d7418a024ad87c20",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87cc79de4cff88ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "24021f09053c7fc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "842051c4cdf76a81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "174d2fff0fa6a2f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "13d77b9d5a18056f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b29d278ceb416557",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Market Making/Drawing 2024-01-26 12.54.48.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Drawing 2024-01-26 12.54.48.excalidraw"
+            }
+          },
+          {
+            "id": "bbfa0ae5d7bffb0a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "cc70c6c386302d1f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:Open random note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cc70c6c386302d1f",
+  "lastOpenFiles": [
+    "System Design/Pictures/google-drive-design.md",
+    "Excalidraw/Drawing 2024-02-12 13.20.51.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-12 13.20.51.excalidraw.png",
+    "Kubernetes/Что такое k8s.md",
+    "Kubernetes/Cluster.md",
+    "System Design/Дизайны популярных систем/Google Drive.md",
+    "System Design/Дизайны популярных систем/Яндекс Такси.md",
+    "System Design/Pictures/google-drive-design.png",
+    "System Design/Дизайны популярных систем/Лента друзей ВКонтакте.md",
+    "System Design/Pictures/lenta-vkontakte-design.md",
+    "System Design/Pictures/lenta-vkontakte-design.png",
+    "System Design/Pictures/yandex-taxi.md",
+    "гео-хеш.md",
+    "[[Как.md",
+    "System Design/Теория/2 - Хранение данных/Как работает гео-хеш.md",
+    "English/Vocabulary.md",
+    "English/Idioms.md",
+    "System Design/Теория/1 - Основные термины и компоненты/Кеширование.md",
+    "System Design/Теория/2 - Хранение данных/Классы баз данных.md",
+    "System Design/Pictures/yandex-taxi.png",
+    "System Design/Pictures/Untitled.md",
+    "System Design/Дизайны популярных систем/Robinhood - приложение для торговли на бирже.md",
+    "Market Making/Drawing 2024-01-26 12.54.48.excalidraw.md",
+    "T",
+    "Архитектор програмного обеспечеения/1-Когда нужен монолит, а когда микросевисы.md",
+    "Files/Pasted image 20231215111304.png",
+    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
+    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
+    "Excalidraw/Drawing 2025-01-13 09.47.32.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-17 16.05.10.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-13 09.47.32.excalidraw.png",
+    "Docker/Переменные окружения.md",
+    "Docker/Контейнеризация vs Виртуализация.md",
+    "System Design/Pictures/Алгоритм выбора лучшей цены.png",
+    "Тестирование приложений",
+    "Работа",
+    "Паттерны отказоустойчивости/Pictures",
+    "Паттерны отказоустойчивости",
+    "Микросервисы/Проблемы с сообщениями между МС",
+    "Микросервисы/Паттерны Микросервисов",
+    "Микросервисы/Pictures",
+    "Микросервисы",
+    "Брокеры сообщений/Pictures/Pasted image 20231211134825.png",
+    "Брокеры сообщений/Pictures/Pasted image 20231211135527.png",
+    "Брокеры сообщений/Pictures"
+  ]
+}

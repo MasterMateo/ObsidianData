@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "87a57b9e5df8ff28",
+    "type": "split",
+    "children": [
+      {
+        "id": "b13b53a460d83b4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e390546121111b88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Трейдинговые метрики/Данные для расчета метрик.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Данные для расчета метрик"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "627e2a2ca70de1a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "af62e1c68ceee4f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48dfbe57aa2968df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "04a6f142d3102626",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a7342763430a1597",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96cf3e9e86f8be47",
+    "type": "split",
+    "children": [
+      {
+        "id": "8048703462befbc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4faad5703534eae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Трейдинговые метрики/Ключевые метрики для фонда.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ключевые метрики для фонда"
+            }
+          },
+          {
+            "id": "dc472683e63143f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Трейдинговые метрики/Ключевые метрики для фонда.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ключевые метрики для фонда"
+            }
+          },
+          {
+            "id": "72fe9146d86811b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "205565d90148c18b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Трейдинговые метрики/Ключевые метрики для фонда.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ключевые метрики для фонда"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e390546121111b88",
+  "lastOpenFiles": [
+    "Трейдинговые метрики/Структура Factsheet.md",
+    "Трейдинговые метрики/Необходимые данные для HFT.md",
+    "Трейдинговые метрики/Данные для расчета метрик.md",
+    "Welcome.md",
+    "Трейдинговые метрики"
+  ]
+}
