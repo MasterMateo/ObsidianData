@@ -4,29 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "284a29dcc575082e",
+        "id": "fda122122fee698f",
         "type": "tabs",
         "children": [
           {
-            "id": "7377255ab42a9444",
+            "id": "f326f409f2ce6c05",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "System Design/Pictures/google-drive-design.md"
+                "file": "C# теория/CORE/Асинхронное программирование/Класс Task.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "google-drive-design"
+              "icon": "lucide-file",
+              "title": "Класс Task"
             }
           },
           {
-            "id": "5096c9dadd60ddf3",
+            "id": "8968c0c8abd578af",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "C# теория/CORE/Асинхронное программирование/WhenAll vs WaitAll.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "WhenAll vs WaitAll"
             }
           }
         ],
@@ -187,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,41 +209,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc70c6c386302d1f",
+  "active": "8968c0c8abd578af",
   "lastOpenFiles": [
-    "System Design/Pictures/google-drive-design.md",
-    "Excalidraw/Drawing 2024-02-12 13.20.51.excalidraw.md",
+    "C# теория/CORE/Асинхронное программирование/Класс Task.md",
+    "C# теория/CORE/Асинхронное программирование/WhenAll vs WaitAll.md",
+    "C# теория/CORE/Асинхронное программирование/SynchronizationContext.md",
+    "C# теория/CORE/Асинхронное программирование/Синхронно вызвать асинхронный код.md",
+    "C# теория/CORE/Асинхронное программирование/Обработка исключений в асинхронном коде.md",
+    "C# теория/CORE/Асинхронное программирование/Асинхронность.md",
+    "C# теория/CORE/Стек и Куча.md",
+    "C# теория/CORE/Файлы и потоки.md",
+    "C# теория/CORE/Управление параллелизмом.md",
+    "C# теория/CORE/Управление памятью и сборка мусора.md",
+    "C# теория/CORE/JIT компилятор.md",
+    "C# теория/CORE/Таблица вирутальных методов - VMT.md",
+    "C# теория/CORE/Span.md",
+    "C# теория/CORE/Асинхронное программирование/Класс Interlocked.md",
+    "C# теория/CORE/Асинхронное программирование/Планировщик задач.md",
+    "C# теория/CORE/Асинхронное программирование/Прогресс выполнения задачи.md",
+    "C# теория/CORE/Асинхронное программирование/Класс Thread.md",
+    "C# теория/CORE/Асинхронное программирование/Класс Thread Pool.md",
+    "C# теория/Entity Framework/Загрузка связанных данных.md",
+    "C# теория/Entity Framework/N+1 проблема.md",
+    "C# теория/ASP.NET Core/DI Container.md",
+    "C# теория/Entity Framework/IQueryable vs IEnumerable.md",
+    "C# теория/CORE/Интерфейсы IEnumerable и IEnumerator.md",
+    "System Design/Теория/3 - Распределенное хранение данных/Типы репликации.md",
+    "System Design/Pictures/async-replication.md",
+    "System Design/Pictures/sync-replication.md",
     "Excalidraw/Drawing 2024-02-12 13.20.51.excalidraw.png",
-    "Kubernetes/Что такое k8s.md",
-    "Kubernetes/Cluster.md",
-    "System Design/Дизайны популярных систем/Google Drive.md",
-    "System Design/Дизайны популярных систем/Яндекс Такси.md",
     "System Design/Pictures/google-drive-design.png",
-    "System Design/Дизайны популярных систем/Лента друзей ВКонтакте.md",
-    "System Design/Pictures/lenta-vkontakte-design.md",
     "System Design/Pictures/lenta-vkontakte-design.png",
-    "System Design/Pictures/yandex-taxi.md",
-    "гео-хеш.md",
-    "[[Как.md",
-    "System Design/Теория/2 - Хранение данных/Как работает гео-хеш.md",
-    "English/Vocabulary.md",
-    "English/Idioms.md",
-    "System Design/Теория/1 - Основные термины и компоненты/Кеширование.md",
-    "System Design/Теория/2 - Хранение данных/Классы баз данных.md",
     "System Design/Pictures/yandex-taxi.png",
-    "System Design/Pictures/Untitled.md",
-    "System Design/Дизайны популярных систем/Robinhood - приложение для торговли на бирже.md",
-    "Market Making/Drawing 2024-01-26 12.54.48.excalidraw.md",
     "T",
-    "Архитектор програмного обеспечеения/1-Когда нужен монолит, а когда микросевисы.md",
     "Files/Pasted image 20231215111304.png",
-    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
-    "Excalidraw/Drawing 2025-01-13 09.47.32.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-17 16.05.10.excalidraw.md",
     "Excalidraw/Drawing 2025-01-13 09.47.32.excalidraw.png",
-    "Docker/Переменные окружения.md",
-    "Docker/Контейнеризация vs Виртуализация.md",
     "System Design/Pictures/Алгоритм выбора лучшей цены.png",
     "Тестирование приложений",
     "Работа",
