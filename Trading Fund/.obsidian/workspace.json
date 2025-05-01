@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "96cf3e9e86f8be47",
@@ -172,9 +173,11 @@
   },
   "active": "e390546121111b88",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-04-25 15.21.07.excalidraw.md",
+    "Трейдинговые метрики/Данные для расчета метрик.md",
+    "Excalidraw",
     "Трейдинговые метрики/Структура Factsheet.md",
     "Трейдинговые метрики/Необходимые данные для HFT.md",
-    "Трейдинговые метрики/Данные для расчета метрик.md",
     "Welcome.md",
     "Трейдинговые метрики"
   ]
